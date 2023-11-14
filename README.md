@@ -1,2 +1,3 @@
-# Blog_Mangement_System
-Blog Management System using Nodejs
+# mern-stack-blog-app
+
+complete mern stack blog application
